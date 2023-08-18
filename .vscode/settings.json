@@ -1,0 +1,12 @@
+{
+    "python.activeStateToolPath": "state",
+    "python.pythonPath" : "/home/fabricio/progama_loja/venv/bin/python",
+    "code-runner.executorMap": {
+        "python": "/home/fabricio/progama_loja/venv/bin/python",
+  
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
